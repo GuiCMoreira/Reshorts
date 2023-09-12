@@ -1,0 +1,63 @@
+{
+  // workbench
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 18,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.tabSize": 2,
+  "workbench.tree.indent": 15,
+  "workbench.editor.enablePreview": false,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+
+  //Prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.fontLigatures": true,
+  "prettier.enable": true,
+  "prettier.singleQuote": false,
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+
+  //Terminal
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "none",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "explorer.confirmDelete": false,
+  "redhat.telemetry.enabled": true,
+  "diffEditor.wordWrap": "on",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.env.windows": {},
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "git.openRepositoryInParentFolders": "always",
+  "workbench.colorTheme": "Activate UMBRA protocol",
+
+  // editor
+  "editor.wordWrap": "on",
+  "editor.lineHeight": 30,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.minimap.enabled": false,
+
+  // explorer
+  "explorer.compactFolders": false
+}
