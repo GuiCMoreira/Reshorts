@@ -4,4 +4,4 @@ O Reshorts Youtube é uma aplicação web que utiliza inteligência artificial p
 
 Desenvolvi este projeto usando HTML, CSS, Javascript, NodeJS e Inteligência Artificial.
 
-<img src="web/Captura de tela 2023-09-21 100832" alt="">
+<img src="web/reshorts.png" alt="">
